@@ -2,17 +2,23 @@
 <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:lrmi="http://purl.org/dcx/lrmi-terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/">
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_0">
     <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
-    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
-    <schema:targetName>Kennen und verstehen der Bestandteile des Templates.</schema:targetName>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Sie können den für Sie passenden Anwendungsmodus auswählen.</schema:targetName>
   </schema:AlignmentObject>
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_1">
     <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
     <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend</schema:targetDescription>
-    <schema:targetName>Template kann angewandt werden.</schema:targetName>
+    <schema:targetName>Sie können den für Sie passenden Anwendungsmodus nutzen.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Sie können das Assessment zielbringend einsetzen.</schema:targetName>
   </schema:AlignmentObject>
   <schema:Book rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual">
     <dc:type>Jupyter Book</dc:type>
-    <dcterms:tableOfContents>- Nutzungsempfehlungen und -anleitungen
+    <dcterms:tableOfContents>- Lernziele
+- Nutzungsempfehlungen und -anleitungen
 - Abschluss</dcterms:tableOfContents>
     <dcterms:type>Jupyter Book</dcterms:type>
     <lrmi:learningResourceType>Jupyter Book</lrmi:learningResourceType>
@@ -110,13 +116,14 @@
 Förderkennzeichen: 16DKZ2034</schema:funding>
     <schema:hasPart>
       <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0">
-        <schema:description>Ein Kapitel mit Inhalt(sbeispielen).</schema:description>
+        <schema:description>Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur Nutzung von QUADRIGA OER.</schema:description>
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_0" />
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_1" />
-        <schema:name>Inhaltskapitel</schema:name>
-        <schema:teaches>Sie kennen die Bestandteile des Templates und können es für Ihre Bedürfnisse nutzen.</schema:teaches>
-        <schema:timeRequired>PT1H</schema:timeRequired>
-        <schema:url rdf:resource="https://quadriga-dk.github.io/Book_Template/inhaltskapitel/einleitung.html" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_2" />
+        <schema:name>Nutzungsempfehlungen und -anleitungen</schema:name>
+        <schema:teaches>Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen.</schema:teaches>
+        <schema:timeRequired>PT2H</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html" />
       </schema:LearningResource>
     </schema:hasPart>
     <schema:identifier>
@@ -150,7 +157,7 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
     </schema:license>
     <schema:name>QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA OER.</schema:name>
     <schema:schemaVersion>1.0.0</schema:schemaVersion>
-    <schema:timeRequired>PT16H15M</schema:timeRequired>
+    <schema:timeRequired>PT2H</schema:timeRequired>
     <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual" />
     <schema:version>0.0.1</schema:version>
     <schema:workExample>

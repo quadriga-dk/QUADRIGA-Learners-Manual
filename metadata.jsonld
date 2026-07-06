@@ -50,9 +50,45 @@
   "contributor": [
     {
       "@type": "Person",
-      "givenName": "Nomen",
-      "familyName": "nominandum",
-      "name": "Nomen nominandum"
+      "givenName": "Evgenia",
+      "familyName": "Samoilova",
+      "name": "Evgenia Samoilova",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0003-3858-901X",
+        "url": "https://orcid.org/0000-0003-3858-901X"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Lamia",
+      "familyName": "Islam",
+      "name": "Lamia Islam",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Paul",
+      "familyName": "Walter",
+      "name": "Paul Walter",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-9236-3268",
+        "url": "https://orcid.org/0000-0002-9236-3268"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Fachhochschule Potsdam"
+      }
     }
   ],
   "inLanguage": "de",

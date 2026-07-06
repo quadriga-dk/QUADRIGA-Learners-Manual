@@ -40,8 +40,17 @@ target-group:
 time-required: PT2H
 language: de
 contributors:
-- given-names: Nomen
-  family-names: nominandum
+- given-names: Evgenia
+  family-names: Samoilova
+  orcid: https://orcid.org/0000-0003-3858-901X
+  affiliation: Universität Potsdam
+- given-names: Lamia
+  family-names: Islam
+  affiliation: Universität Potsdam
+- family-names: Walter
+  given-names: Paul
+  orcid: https://orcid.org/0000-0002-9236-3268
+  affiliation: Fachhochschule Potsdam
 identifier: https://doi.org/10.5281/zenodo.21222824
 git: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
 url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual

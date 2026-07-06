@@ -1,19 +1,18 @@
-# QUADRIGA-OER-Template
+# QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA OER
 
 ````{margin}
 ```{admonition} Fragen oder Feedback
 :class: frage-feedback
 
-<a href="https://github.com/quadriga-dk/Book_Template/issues/new?assignees=&labels=question&projects=&template=frage.yml" class="external-link" target="_blank">
+<a href="https://github.com/quadriga-dk/QUADRIGA-Learners-Manual/issues/new?assignees=&labels=question&projects=&template=frage.yml" class="external-link" target="_blank">
     Stellen Sie eine Frage
 </a> <br>
-<a href="https://github.com/quadriga-dk/Book_Template/issues/new?assignees=&labels=feedback&projects=&template=feedback.yml" class="external-link" target="_blank">
+<a href="https://github.com/quadriga-dk/QUADRIGA-Learners-Manual/issues/new?assignees=&labels=feedback&projects=&template=feedback.yml" class="external-link" target="_blank">
     Geben Sie uns Feedback
 </a>
 
-Mit Ihren Rückmeldungen können wir unser Template gezielt an Ihre Bedürfnisse anpassen.
-
-
+Mit Ihren Rückmeldungen können wir unser Template gezielt an Ihre Bedürfnisse
+anpassen.
 
 ```
 ````
@@ -24,10 +23,23 @@ Mit Ihren Rückmeldungen können wir unser Template gezielt an Ihre Bedürfnisse
 ```{literalinclude} /CITATION.bib
 :language: bibtex
 ```
-Schnaitter, H., Samoilova, E. & Islam, L. (2024). _QUADRIGA-OER-Template. QUADRIGA Open Educational Resources: Template._ https://doi.org/10.5281/zenodo.14970672
+
+Schnaitter, H. (2026). _QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für
+das Lernen mit QUADRIGA OER. QUADRIGA Open Educational Resources_
+https://doi.org/10.5281/zenodo.TODOTODOTODO
 
 ````
 `````
+
+Um eine QUADRIGA OER erfolgreich für die Verbesserung Ihrer Datenkompetenz
+nutzen zu können finden Sie auf den nachfolgenden Seiten Emfpehlungen und
+Anleitungen für die Nutzung einzelner Bestandteile und Funktionalitäten. Das
+vorliegende Werk ist nicht gedacht um es von vorne nach hinten durchzuarbeiten,
+sondern um einzelne Aspekte gezielt nachzuschlagen. In den meisten Fällen
+wurden Sie von einer QUADRIGA OER aus per Link direkt zu einer relevanten
+Unterseite geleitet.
+
+<!--
 
 Diese Vorlage dient der Erstellung von Open Educational Resources (OER) im Rahmen des <a href="https://www.quadriga-dk.de/" class="external-link" target="_blank">QUADRIGA-Projekts</a>.
 
@@ -73,8 +85,4 @@ Nach den QUADRIGA Empfehlungen und Vorgaben für OER durchlaufen Fallstudien min
 
 Die OER wird durch den Abschluss komplettiert, das Raum für Fragen und Feedback bietet, das Literaturverzeichnis enthält, die Autor:innen vorstellt sowie Informationen zu QUADRIGA und das Impressum bereitstellt (siehe Kapitel {ref}`Abschluss<fragen_feedback>`).
 
-**Literatur**
-
-```{bibliography}
-:filter: docname in docnames
-```
+-->

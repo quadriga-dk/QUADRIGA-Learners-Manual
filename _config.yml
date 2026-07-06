@@ -1,10 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "QUADRIGA-OER-Template. QUADRIGA Open Educational Resources: Template"
-author: Hannes Schnaitter, Evgenia Samoilova, Lamia Islam
+title: "QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA OER."
+author: Hannes Schnaitter
 logo: assets/logo.jpg
-copyright: "2024, QUADRIGA"
+copyright: "2026, QUADRIGA"
 exclude_patterns:
   [
     _build,

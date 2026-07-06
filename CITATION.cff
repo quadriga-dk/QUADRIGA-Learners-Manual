@@ -1,7 +1,8 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-version: 0.64.1
-title: 'QUADRIGA-OER-Template. QUADRIGA Open Educational Resources: Template'
+version: 0.0.1
+title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
+  OER.'
 type: software
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
@@ -10,19 +11,12 @@ authors: &id001
   family-names: Schnaitter
   orcid: https://orcid.org/0000-0002-1602-6032
   affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
-- given-names: Evgenia
-  family-names: Samoilova
-  orcid: https://orcid.org/0000-0003-3858-901X
-  affiliation: Universität Potsdam
-- given-names: Lamia
-  family-names: Islam
-  affiliation: Universität Potsdam
 identifiers:
 - type: doi
   value: 10.5281/zenodo.14970672
   description: Zenodo
-repository-code: https://github.com/quadriga-dk/Book_Template
-url: https://quadriga-dk.github.io/Book_Template/
+repository-code: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
+url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
 keywords: &id002
 - Open Educational Resources
 - Offene Bildungsressource
@@ -30,6 +24,8 @@ keywords: &id002
 - Data Literacy
 - Datenkompetenz
 - open-educational-resources
+- Anleitung
+- manual
 license: CC-BY-SA-4.0
 references:
 - title: Jupyter Book
@@ -39,22 +35,20 @@ references:
     website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
   year: '2026'
-  version: 0.64.1
+  version: 0.0.1
   authors: *id001
-  title: 'QUADRIGA-OER-Template. QUADRIGA Open Educational Resources: Template'
+  title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
+    OER.'
   type: book
   doi: 10.5281/zenodo.14970672
-  url: https://quadriga-dk.github.io/Book_Template/
-  repository-code: https://github.com/quadriga-dk/Book_Template
+  url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
+  repository-code: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
   license: CC-BY-SA-4.0
   languages:
   - deu
   copyright: CC-BY-SA-4.0
   keywords: *id002
-abstract: Dieses interaktive Lehrbuch führt in die Erstellung von Open Educational
-  Resources (OER) nach den Empfehlungen und Vorgaben des Datenkompetenzzentrumgs QUADRIGA
-  als <a href="https://jupyterbook.org">Jupyter Book</a> ein. Diese Empfehlungen und
-  Vorgaben sind einerseits inhaltlicher und didaktischer andererseits technischer
-  Natur. Diese OER richtet sich vorrangig an OER-Erstellende und kann als Startpunkt
-  (Template) für die Erstellung eigener OER genutzt werden. Einzelne (Unter-)Kapitel
-  bieten zudem Erläuterungen zu Funktionalitäten für Lernende.
+abstract: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
+  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
+  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
+  bis zur lokalen Entwicklung.

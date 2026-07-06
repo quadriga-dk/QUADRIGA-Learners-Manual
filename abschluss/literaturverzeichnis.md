@@ -8,7 +8,7 @@
 ```
 Schnaitter, H. (2026). _QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für
 das Lernen mit QUADRIGA OER. QUADRIGA Open Educational Resources_
-https://doi.org/10.5281/zenodo.TODOTODOTODO
+https://doi.org/10.5281/zenodo.21222824
 
 ````
 `````

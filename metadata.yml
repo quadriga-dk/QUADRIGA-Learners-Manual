@@ -42,7 +42,7 @@ language: de
 contributors:
 - given-names: Nomen
   family-names: nominandum
-identifier: https://doi.org/10.5281/TODOTODOTODO
+identifier: https://doi.org/10.5281/zenodo.21222824
 git: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
 url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
 used-tools:
@@ -71,7 +71,7 @@ chapters:
     blooms-category: 3 Anwenden
 date-issued: '2026-07-06'
 date-modified: '2026-07-06'
-version: 0.0.1
+version: 0.0.2
 context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
   Datenkompetenzzentrum QUADRIGA erstellt.
 

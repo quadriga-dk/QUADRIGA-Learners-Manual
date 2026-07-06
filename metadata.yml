@@ -23,7 +23,9 @@ description: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlu
   und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
   die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
   bis zur lokalen Entwicklung.
-table-of-contents: '- Nutzungsempfehlungen und -anleitungen
+table-of-contents: '- Lernziele
+
+  - Nutzungsempfehlungen und -anleitungen
 
   - Abschluss'
 discipline:
@@ -35,7 +37,7 @@ target-group:
 - Forschende (Projektleitung)
 - Promovierende
 - Hochschullehrende
-time-required: PT16H15M
+time-required: PT2H
 language: de
 contributors:
 - given-names: Nomen
@@ -47,18 +49,23 @@ used-tools:
 - name: Jupyter Book
   url: https://jupyterbook.org
 chapters:
-- title: Inhaltskapitel
-  description: Ein Kapitel mit Inhalt(sbeispielen).
-  url: https://quadriga-dk.github.io/Book_Template/inhaltskapitel/einleitung.html
-  time-required: PT1H
-  learning-goal: Sie kennen die Bestandteile des Templates und können es für Ihre
-    Bedürfnisse nutzen.
+- title: Nutzungsempfehlungen und -anleitungen
+  description: Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur
+    Nutzung von QUADRIGA OER.
+  url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html
+  time-required: PT2H
+  learning-goal: Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu
+    erreichen.
   learning-objectives:
-  - learning-objective: Kennen und verstehen der Bestandteile des Templates.
+  - learning-objective: Sie können den für Sie passenden Anwendungsmodus auswählen.
     competency: Orientierungswissen
     data-flow: übergreifend
-    blooms-category: 2 Verstehen
-  - learning-objective: Template kann angewandt werden.
+    blooms-category: 3 Anwenden
+  - learning-objective: Sie können den für Sie passenden Anwendungsmodus nutzen.
+    competency: Orientierungswissen
+    data-flow: übergreifend
+    blooms-category: 3 Anwenden
+  - learning-objective: Sie können das Assessment zielbringend einsetzen.
     competency: Orientierungswissen
     data-flow: übergreifend
     blooms-category: 3 Anwenden

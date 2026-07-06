@@ -126,7 +126,7 @@
       "audienceType": "Hochschullehrende"
     }
   ],
-  "timeRequired": "PT16H15M",
+  "timeRequired": "PT2H",
   "license": [
     {
       "@type": "CreativeWork",
@@ -142,28 +142,34 @@
   "hasPart": [
     {
       "@type": "LearningResource",
-      "name": "Inhaltskapitel",
-      "description": "Ein Kapitel mit Inhalt(sbeispielen).",
-      "url": "https://quadriga-dk.github.io/Book_Template/inhaltskapitel/einleitung.html",
-      "timeRequired": "PT1H",
-      "teaches": "Sie kennen die Bestandteile des Templates und können es für Ihre Bedürfnisse nutzen.",
+      "name": "Nutzungsempfehlungen und -anleitungen",
+      "description": "Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur Nutzung von QUADRIGA OER.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html",
+      "timeRequired": "PT2H",
+      "teaches": "Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen.",
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
-          "targetName": "Kennen und verstehen der Bestandteile des Templates.",
+          "targetName": "Sie können den für Sie passenden Anwendungsmodus auswählen.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
         },
         {
           "@type": "AlignmentObject",
-          "targetName": "Template kann angewandt werden.",
+          "targetName": "Sie können den für Sie passenden Anwendungsmodus nutzen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Sie können das Assessment zielbringend einsetzen.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
         }
       ]
     }
   ],
-  "dcterms:tableOfContents": "- Nutzungsempfehlungen und -anleitungen\n- Abschluss",
+  "dcterms:tableOfContents": "- Lernziele\n- Nutzungsempfehlungen und -anleitungen\n- Abschluss",
   "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
   "learningResourceType": "Jupyter Book",
   "lrmi:learningResourceType": "Jupyter Book",

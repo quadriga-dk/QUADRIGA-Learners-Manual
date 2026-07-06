@@ -6,12 +6,17 @@
 ```{literalinclude} ../CITATION.bib
 :language: bibtex
 ```
-Schnaitter, H., Samoilova, E. & Islam, L. (2024). _QUADRIGA OERs: erstellen und gestalten mit interaktives Lehrbuch. QUADRIGA Open Educational Resources: Template._ https://doi.org/10.5281/zenodo.14970672
+Schnaitter, H. (2026). _QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für
+das Lernen mit QUADRIGA OER. QUADRIGA Open Educational Resources_
+https://doi.org/10.5281/zenodo.TODOTODOTODO
 
 ````
 `````
 
-Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde. Sie können Sie zudem als [BibTeX-Datei](../references.bib) (`.bib`) herunterladen, um Sie bspw. in Ihrem Literaturverwaltungsprogramm zu importieren.
+Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde.
+Sie können Sie zudem als [BibTeX-Datei](../references.bib) (`.bib`)
+herunterladen, um Sie bspw. in Ihrem Literaturverwaltungsprogramm zu
+importieren.
 
 ```{bibliography}
 :all:

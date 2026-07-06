@@ -24,8 +24,21 @@
   "language": "deu",
   "contributors": [
     {
-      "name": "nominandum, Nomen",
-      "type": "Other"
+      "name": "Samoilova, Evgenia",
+      "type": "Other",
+      "affiliation": "Universität Potsdam",
+      "orcid": "0000-0003-3858-901X"
+    },
+    {
+      "name": "Islam, Lamia",
+      "type": "Other",
+      "affiliation": "Universität Potsdam"
+    },
+    {
+      "name": "Walter, Paul",
+      "type": "Other",
+      "affiliation": "Fachhochschule Potsdam",
+      "orcid": "0000-0002-9236-3268"
     }
   ],
   "related_identifiers": [

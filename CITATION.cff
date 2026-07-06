@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-version: 0.0.1
+version: 0.0.2
 title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
   OER.'
 type: software
@@ -13,7 +13,7 @@ authors: &id001
   affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
 identifiers:
 - type: doi
-  value: 10.5281/zenodo.14970672
+  value: 10.5281/zenodo.21222824
   description: Zenodo
 repository-code: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
 url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
@@ -35,12 +35,12 @@ references:
     website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
   year: '2026'
-  version: 0.0.1
+  version: 0.0.2
   authors: *id001
   title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
     OER.'
   type: book
-  doi: 10.5281/zenodo.14970672
+  doi: 10.5281/zenodo.21222824
   url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
   repository-code: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
   license: CC-BY-SA-4.0

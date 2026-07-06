@@ -129,8 +129,8 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
     <schema:identifier>
       <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#doi">
         <schema:propertyID>DOI</schema:propertyID>
-        <schema:url rdf:resource="https://doi.org/10.5281/TODOTODOTODO" />
-        <schema:value>10.5281/TODOTODOTODO</schema:value>
+        <schema:url rdf:resource="https://doi.org/10.5281/zenodo.21222824" />
+        <schema:value>10.5281/zenodo.21222824</schema:value>
       </schema:PropertyValue>
     </schema:identifier>
     <schema:inLanguage>de</schema:inLanguage>
@@ -159,7 +159,7 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
     <schema:schemaVersion>1.0.0</schema:schemaVersion>
     <schema:timeRequired>PT2H</schema:timeRequired>
     <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual" />
-    <schema:version>0.0.1</schema:version>
+    <schema:version>0.0.2</schema:version>
     <schema:workExample>
       <schema:SoftwareSourceCode rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#repository">
         <schema:codeRepository rdf:resource="https://github.com/quadriga-dk/QUADRIGA-Learners-Manual" />

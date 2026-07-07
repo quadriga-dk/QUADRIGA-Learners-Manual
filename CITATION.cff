@@ -1,8 +1,11 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-version: 0.0.2
 title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
   OER.'
+abstract: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
+  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
+  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
+  bis zur lokalen Entwicklung.
 type: software
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
@@ -35,7 +38,6 @@ references:
     website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
   year: '2026'
-  version: 0.0.2
   authors: *id001
   title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
     OER.'
@@ -48,7 +50,5 @@ preferred-citation:
   - deu
   copyright: CC-BY-SA-4.0
   keywords: *id002
-abstract: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
-  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
-  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
-  bis zur lokalen Entwicklung.
+  version: 0.0.2
+version: 0.0.2

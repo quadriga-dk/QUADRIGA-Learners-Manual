@@ -163,19 +163,19 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
     <schema:keywords>open-educational-resources</schema:keywords>
     <schema:learningResourceType>Jupyter Book</schema:learningResourceType>
     <schema:license>
-      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#license_code">
-        <schema:license rdf:resource="https://opensource.org/licenses/AGPL-3.0" />
-        <schema:name>Source Code</schema:name>
-      </schema:CreativeWork>
-    </schema:license>
-    <schema:license>
-      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#license_content">
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#license_0">
         <schema:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
         <schema:name>Content</schema:name>
       </schema:CreativeWork>
     </schema:license>
+    <schema:license>
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#license_1">
+        <schema:license rdf:resource="https://opensource.org/licenses/AGPL-3.0" />
+        <schema:name>Source Code</schema:name>
+      </schema:CreativeWork>
+    </schema:license>
     <schema:name>QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA OER.</schema:name>
-    <schema:schemaVersion>1.0.0</schema:schemaVersion>
+    <schema:schemaVersion>2.0.0</schema:schemaVersion>
     <schema:timeRequired>PT2H</schema:timeRequired>
     <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual" />
     <schema:version>0.0.2</schema:version>

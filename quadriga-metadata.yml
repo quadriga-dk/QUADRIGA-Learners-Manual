@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=https://quadriga-dk.github.io/quadriga-schema/v2.0.0/schema.json
+title: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
+  OER.'
+authorLIST:
+- familyName: Schnaitter
+  givenName: Hannes
+  orcid: https://orcid.org/0000-0002-1602-6032
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+  creditLIST:
+  - Writing – original draft
+  - Writing – review & editing
+  - Software
+keywordLIST:
+- Open Educational Resources
+- de: Offene Bildungsressource
+- en: Jupyter Book
+- en: Data Literacy
+  de: Datenkompetenz
+- open-educational-resources
+- de: Anleitung
+  en: manual
+description: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
+  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
+  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
+  bis zur lokalen Entwicklung.
+tableOfContents: '- Lernziele
+
+  - Nutzungsempfehlungen und -anleitungen
+
+  - Abschluss'
+disciplineLIST:
+- übergreifend
+researchObjectTypeLIST:
+- übergreifend
+targetGroupLIST:
+- Forschende (PostDoc)
+- Forschende (Projektleitung)
+- Promovierende
+- Hochschullehrende
+timeRequired: PT2H
+language: de
+contributorLIST:
+- familyName: Samoilova
+  givenName: Evgenia
+  orcid: https://orcid.org/0000-0003-3858-901X
+  affiliation: Universität Potsdam
+- familyName: Islam
+  givenName: Lamia
+  affiliation: Universität Potsdam
+- familyName: Walter
+  givenName: Paul
+  orcid: https://orcid.org/0000-0002-9236-3268
+  affiliation: Fachhochschule Potsdam
+identifier: https://doi.org/10.5281/zenodo.21222824
+identifierGit: https://github.com/quadriga-dk/QUADRIGA-Learners-Manual
+identifierOER: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual
+usedToolLIST:
+- name: Jupyter Book
+  url: https://jupyterbook.org
+chapterLIST:
+- title: Nutzungsempfehlungen und -anleitungen
+  description: Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur
+    Nutzung von QUADRIGA OER.
+  url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html
+  timeRequired: PT2H
+  learningGoal: Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu
+    erreichen.
+  learningObjectiveLIST:
+  - description: Sie können den für Sie passenden Anwendungsmodus auswählen.
+    competency: Orientierungswissen
+    dataFlow: übergreifend
+    bloomsCategory: 3 Anwenden
+  - description: Sie können den für Sie passenden Anwendungsmodus nutzen.
+    competency: Orientierungswissen
+    dataFlow: übergreifend
+    bloomsCategory: 3 Anwenden
+  - description: Sie können das Assessment zielbringend einsetzen.
+    competency: Orientierungswissen
+    dataFlow: übergreifend
+    bloomsCategory: 3 Anwenden
+dateIssued: '2026-07-06'
+dateModified: '2026-07-06'
+version: 0.0.2
+contextOfCreation: 'Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum
+  QUADRIGA erstellt.
+
+
+  Förderkennzeichen: 16DKZ2034'
+qualityAssurance:
+  date: '2026-11-14'
+  description: https://doi.org/10.5281/zenodo.18953896
+learningResourceType: Jupyter Book
+schemaVersion: 2.0.0
+license: https://creativecommons.org/licenses/by-sa/4.0/
+licenseCode: https://opensource.org/licenses/AGPL-3.0

@@ -146,7 +146,7 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_2" />
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual#chapter_0_objective_3" />
         <schema:name>Nutzungsempfehlungen und -anleitungen</schema:name>
-        <schema:teaches>Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen.</schema:teaches>
+        <schema:teaches>Sie nutzen die Empfehlungen und Anleitungen, um einen Lernerfolg zu erreichen.</schema:teaches>
         <schema:timeRequired>PT3H</schema:timeRequired>
         <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html" />
       </schema:LearningResource>

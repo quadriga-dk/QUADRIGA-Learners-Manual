@@ -182,7 +182,7 @@
       "description": "Erklärt die Ausführungsmodi Lesen, Cloud und lokal, die Nutzung von Google Colab, Binder und JupyterHub sowie den Einsatz von Assessments.",
       "url": "https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html",
       "timeRequired": "PT3H",
-      "teaches": "Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen.",
+      "teaches": "Sie nutzen die Empfehlungen und Anleitungen, um einen Lernerfolg zu erreichen.",
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",

@@ -15,5 +15,4 @@ Fragen oder Feedback?
 <br>
 <br>
 
-Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
-Bedürfnisse anpassen.
+Mit Ihren Rückmeldungen können wir diese Lernhinweise gezielt verbessern.

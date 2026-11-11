@@ -12,7 +12,7 @@
     "LearningResource"
   ],
   "name": "QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA OER.",
-  "description": "Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud bis zur lokalen Entwicklung.",
+  "description": "Diese Lernhinweise unterstützen Lernende bei der Nutzung von QUADRIGA-OERs. Sie erklären die Ausführungsmodi Lesen, Cloud und lokal, den Umgang mit Notebooks in Google Colab, Binder und JupyterHub sowie die Nutzung von Assessments. Die Hinweise sind zum Nachschlagen gedacht. Die Anleitung für OER-Erstellende und das Book_Template liegen in separaten Repositories.",
   "identifier": {
     "@type": "PropertyValue",
     "propertyID": "DOI",
@@ -162,7 +162,7 @@
       "audienceType": "Hochschullehrende"
     }
   ],
-  "timeRequired": "PT2H",
+  "timeRequired": "PT3H",
   "license": [
     {
       "@type": "CreativeWork",
@@ -179,28 +179,34 @@
     {
       "@type": "LearningResource",
       "name": "Nutzungsempfehlungen und -anleitungen",
-      "description": "Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur Nutzung von QUADRIGA OER.",
+      "description": "Erklärt die Ausführungsmodi Lesen, Cloud und lokal, die Nutzung von Google Colab, Binder und JupyterHub sowie den Einsatz von Assessments.",
       "url": "https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html",
-      "timeRequired": "PT2H",
+      "timeRequired": "PT3H",
       "teaches": "Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen.",
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
-          "targetName": "Sie können den für Sie passenden Anwendungsmodus auswählen.",
+          "targetName": "Sie können den für Sie passenden Ausführungsmodus auswählen.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
         },
         {
           "@type": "AlignmentObject",
-          "targetName": "Sie können den für Sie passenden Anwendungsmodus nutzen.",
+          "targetName": "Sie können eine QUADRIGA-OER im Lese-, Cloud- oder lokalen Modus nutzen.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
         },
         {
           "@type": "AlignmentObject",
-          "targetName": "Sie können das Assessment zielbringend einsetzen.",
+          "targetName": "Sie können Assessment-Formate zielgerichtet für Ihr Lernen einsetzen.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Sie können die Grenzen der Ausführungsmodi und die Anforderungen an den Datenschutz einschätzen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
         }
       ]
     }

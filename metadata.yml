@@ -4,10 +4,11 @@ creativeWorkStatus: Published
 type: LearningResource
 name: 'QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für das Lernen mit QUADRIGA
   OER.'
-description: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
-  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
-  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
-  bis zur lokalen Entwicklung.
+description: Diese Lernhinweise unterstützen Lernende bei der Nutzung von QUADRIGA-OERs.
+  Sie erklären die Ausführungsmodi Lesen, Cloud und lokal, den Umgang mit Notebooks
+  in Google Colab, Binder und JupyterHub sowie die Nutzung von Assessments. Die Hinweise
+  sind zum Nachschlagen gedacht. Die Anleitung für OER-Erstellende und das Book_Template
+  liegen in separaten Repositories.
 license: https://creativecommons.org/licenses/by-sa/4.0/
 id: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/
 creator:
@@ -65,7 +66,7 @@ educationalLevel:
 - https://w3id.org/kim/educationalLevel/level_A
 learningResourceType:
 - https://w3id.org/kim/hcrt/textbook
-duration: PT2H
+duration: PT3H
 version: 0.0.2
 datePublished: '2026-07-06'
 dateModified: '2026-07-06'

@@ -11,8 +11,7 @@
     Geben Sie uns Feedback
 </a>
 
-Mit Ihren Rückmeldungen können wir unser Template gezielt an Ihre Bedürfnisse
-anpassen.
+Mit Ihren Rückmeldungen können wir diese Lernhinweise gezielt verbessern.
 
 ```
 ````
@@ -31,11 +30,15 @@ https://doi.org/10.5281/zenodo.21222824
 ````
 `````
 
-Um eine QUADRIGA OER erfolgreich für die Verbesserung Ihrer Datenkompetenz
-nutzen zu können finden Sie auf den nachfolgenden Seiten Emfpehlungen und
-Anleitungen für die Nutzung einzelner Bestandteile und Funktionalitäten. Das
-vorliegende Werk ist nicht gedacht um es von vorne nach hinten durchzuarbeiten,
-sondern um einzelne Aspekte gezielt nachzuschlagen. In den meisten Fällen
-wurden Sie von einer QUADRIGA OER aus per Link direkt zu einer relevanten
+Um eine QUADRIGA-OER erfolgreich für die Verbesserung Ihrer Datenkompetenz zu
+nutzen, finden Sie auf den nachfolgenden Seiten Empfehlungen und Anleitungen
+für die Nutzung einzelner Bestandteile und Funktionalitäten. Das vorliegende
+Werk ist nicht dafür gedacht, von vorne nach hinten durchgearbeitet zu werden,
+sondern dafür, einzelne Aspekte gezielt nachzuschlagen. In den meisten Fällen
+werden Sie von einer QUADRIGA-OER aus per Link direkt zu einer relevanten
 Unterseite geleitet.
+
+Eine Übersicht über die drei Ausführungsmodi finden Sie unter
+{ref}`Ausführungsmodi<nutzung:modi>`. Wie Sie eigene OERs erstellen, steht in
+der <a href="https://quadriga-dk.github.io/QUADRIGA-OER-Manual/" class="external-link" target="_blank">QUADRIGA-OER-Anleitung</a>.
 

@@ -14,7 +14,7 @@ Nicht jede OER bietet alle drei Modi an. Kapitel mit ausführbaren Notebooks sin
 | Merkmal | Lesen | Cloud | Lokal |
 |---|---|---|---|
 | **Installation** | keine | keine | Python, Jupyter und ggf. weitere Kernel |
-| **Internetverbindung** | erforderlich | erforderlich | nur zum Herunterladen und für Downloads |
+| **Internetverbindung** | erforderlich | erforderlich | nur zum Herunterladen von OER und Paketen |
 | **Code ausführen** | nein | ja | ja |
 | **Eigene Daten nutzen** | nein | nur eingeschränkt | ja |
 | **Änderungen dauerhaft speichern** | nein | je nach Dienst und Konfiguration | ja, auf Ihrem Gerät |

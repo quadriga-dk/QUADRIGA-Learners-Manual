@@ -75,7 +75,7 @@ Binder erstellt aus dem Git-Repository der OER eine passende Rechenumgebung. Dab
 - **Gesamtes Repository verfügbar:** Anders als bei Colab stehen Ihnen alle Dateien der OER zur Verfügung.
 - **Temporäre Sitzung:** Änderungen werden nicht in das Repository zurückgeschrieben. Laden Sie wichtige Ergebnisse herunter.
 - **Zeitlimit:** Binder-Sitzungen enden nach einer gewissen Inaktivität.
-- **Öffentlicher Dienst:** Verwenden Sie keine personenbezogenen oder vertraulichen Daten.
+- **Öffentlich zugänglicher Dienst:** Verwenden Sie keine personenbezogenen oder vertraulichen Daten.
 
 ## JupyterHub
 
@@ -99,12 +99,12 @@ JupyterHub ist ein Dienst, den Ihre Hochschule oder Organisation selbst betreibt
 
 | Merkmal | Google Colab | Binder | JupyterHub |
 |---|---|---|---|
-| **Betreiber** | Google | Öffentlicher Dienst oder eigener BinderHub | Ihre Organisation |
+| **Betreiber** | Google | Binder-Projekt oder eigener BinderHub | Ihre Organisation |
 | **Konto** | Google-Konto | kein Konto | Konto auf dem Hub |
 | **Dateizugriff** | einzelnes Notebook; Dateien manuell bereitstellen | gesamtes Repository | Dateien werden in Ihre Umgebung kopiert |
 | **Umgebung** | vorinstallierte Pakete von Google | aus den Konfigurationsdateien der OER | von der Administration festgelegt |
 | **Speichern** | Google Drive oder Download | Download, Sitzung temporär | je nach Konfiguration |
-| **Datenschutz** | Ausführung auf Google-Servern | öffentlicher Dienst | Regeln der Organisation |
+| **Datenschutz** | Ausführung auf Google-Servern | Öffentlich zugänglicher Dienst | Regeln der Organisation |
 | **Startzeit** | kurz | beim ersten Mal mehrere Minuten | abhängig vom Hub |
 
 ## Datenschutz und Kosten

@@ -6,7 +6,7 @@
 
 ```{admonition} [QUADRIGA OER zum Erlernen von Datenkompetenz nutzen](nutzung:einleitung)
 :class: lernziele
-<!-- learning-goal: Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu erreichen. -->
+<!-- learning-goal: Sie nutzen die Empfehlungen und Anleitungen, um einen Lernerfolg zu erreichen. -->
 
 1. Sie können den für Sie passenden Ausführungsmodus auswählen.<!-- competency: Orientierungswissen | bloom: 3 Anwenden -->
 1. Sie können eine QUADRIGA-OER im Lese-, Cloud- oder lokalen Modus nutzen.<!-- competency: Orientierungswissen | bloom: 3 Anwenden -->

@@ -19,10 +19,11 @@ keywordLIST:
 - open-educational-resources
 - de: Anleitung
   en: manual
-description: Diese Anleitung bietet Lernenden, die QUADRIGA OER nutzen, Empfehlungen
-  und Anleitungen zu verschiedenen Bestandteilen von QUADRIGA OER. Dies betrifft insbesondere
-  die verschiendenen Interaktionsmöglichkeiten von Lesen über Ausführen in der Cloud
-  bis zur lokalen Entwicklung.
+description: Diese Lernhinweise unterstützen Lernende bei der Nutzung von QUADRIGA-OERs.
+  Sie erklären die Ausführungsmodi Lesen, Cloud und lokal, den Umgang mit Notebooks
+  in Google Colab, Binder und JupyterHub sowie die Nutzung von Assessments. Die Hinweise
+  sind zum Nachschlagen gedacht. Die Anleitung für OER-Erstellende und das Book_Template
+  liegen in separaten Repositories.
 tableOfContents: '- Lernziele
 
   - Nutzungsempfehlungen und -anleitungen
@@ -37,7 +38,7 @@ targetGroupLIST:
 - Forschende (Projektleitung)
 - Promovierende
 - Hochschullehrende
-timeRequired: PT2H
+timeRequired: PT3H
 language: de
 contributorLIST:
 - familyName: Samoilova
@@ -59,25 +60,31 @@ usedToolLIST:
   url: https://jupyterbook.org
 chapterLIST:
 - title: Nutzungsempfehlungen und -anleitungen
-  description: Einzelne Seiten und Unterseiten mit Anleitungen und Empfehlungen zur
-    Nutzung von QUADRIGA OER.
+  description: Erklärt die Ausführungsmodi Lesen, Cloud und lokal, die Nutzung von
+    Google Colab, Binder und JupyterHub sowie den Einsatz von Assessments.
   url: https://quadriga-dk.github.io/QUADRIGA-Learners-Manual/nutzung/einleitung.html
-  timeRequired: PT2H
+  timeRequired: PT3H
   learningGoal: Sie nutzen die Empfehlungen und Anleitungen um einen Lernerfolg zu
     erreichen.
   learningObjectiveLIST:
-  - description: Sie können den für Sie passenden Anwendungsmodus auswählen.
+  - description: Sie können den für Sie passenden Ausführungsmodus auswählen.
     competency: Orientierungswissen
     dataFlow: übergreifend
     bloomsCategory: 3 Anwenden
-  - description: Sie können den für Sie passenden Anwendungsmodus nutzen.
+  - description: Sie können eine QUADRIGA-OER im Lese-, Cloud- oder lokalen Modus
+      nutzen.
     competency: Orientierungswissen
     dataFlow: übergreifend
     bloomsCategory: 3 Anwenden
-  - description: Sie können das Assessment zielbringend einsetzen.
+  - description: Sie können Assessment-Formate zielgerichtet für Ihr Lernen einsetzen.
     competency: Orientierungswissen
     dataFlow: übergreifend
     bloomsCategory: 3 Anwenden
+  - description: Sie können die Grenzen der Ausführungsmodi und die Anforderungen
+      an den Datenschutz einschätzen.
+    competency: Orientierungswissen
+    dataFlow: übergreifend
+    bloomsCategory: 2 Verstehen
 dateIssued: '2026-07-06'
 dateModified: '2026-07-06'
 version: 0.0.2

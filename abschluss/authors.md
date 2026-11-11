@@ -23,6 +23,6 @@
 </tr>
 </table>
 
-## sonstige beteiligte Personen
+## Sonstige beteiligte Personen
 
-AP1 and AP2
+AP1 und AP2

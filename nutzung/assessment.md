@@ -27,7 +27,7 @@ Bei diesen Aufgaben bringen Sie Elemente in die richtige Reihenfolge oder ordnen
 
 Bei komplexeren Aufgaben gibt es keine automatische Auswertung. Stattdessen erhalten Sie eine Musterlösung und/oder ein Bewertungsraster. Gehen Sie so vor:
 
-1. Bearbeiten Sie die Aufgabe zunächst ohne die Lösung einzublenden.
+1. Bearbeiten Sie die Aufgabe zunächst, ohne die Lösung einzublenden.
 2. Vergleichen Sie Ihre Lösung anschließend mit der Musterlösung und dem Bewertungsraster.
 3. Notieren Sie, was Sie gut umgesetzt haben und wo Lücken geblieben sind.
 4. Wiederholen Sie die betreffenden Inhalte, wenn nötig.

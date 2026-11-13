@@ -24,7 +24,7 @@ Mit Ihren Rückmeldungen können wir diese Lernhinweise gezielt verbessern.
 ```
 
 Schnaitter, H. (2026). _QUADRIGA Lernhinweise: Anleitungen und Empfehlungen für
-das Lernen mit QUADRIGA OER. QUADRIGA Open Educational Resources_
+das Lernen mit QUADRIGA OER. QUADRIGA Open Educational Resources._
 https://doi.org/10.5281/zenodo.21222824
 
 ````

@@ -19,7 +19,7 @@
     "value": "10.5281/zenodo.21222824",
     "url": "https://doi.org/10.5281/zenodo.21222824"
   },
-  "version": "0.0.2",
+  "version": "0.1.0",
   "schemaVersion": "2.0.0",
   "url": "https://quadriga-dk.github.io/QUADRIGA-Learners-Manual",
   "workExample": {
@@ -28,7 +28,7 @@
     "codeRepository": "https://github.com/quadriga-dk/QUADRIGA-Learners-Manual"
   },
   "datePublished": "2026-07-06",
-  "dateModified": "2026-07-06",
+  "dateModified": "2026-11-13",
   "author": [
     {
       "@type": "Person",

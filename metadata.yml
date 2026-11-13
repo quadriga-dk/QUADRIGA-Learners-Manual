@@ -67,7 +67,7 @@ educationalLevel:
 learningResourceType:
 - https://w3id.org/kim/hcrt/textbook
 duration: PT3H
-version: 0.0.2
+version: 0.1.0
 datePublished: '2026-07-06'
-dateModified: '2026-07-06'
+dateModified: '2026-11-13'
 identifier: https://doi.org/10.5281/zenodo.21222824
